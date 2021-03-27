@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.34098">
+<testcase classname="Background feature" name="Doctor scenario" time="0.338898">
+<system-out><![CDATA[Given Student should join school first......................................passed
+Given Student should pass elementry school..................................passed
+Given Student has to complete SSLC..........................................passed
+When Student has to complete Twelth.........................................passed
+Then Student should join Medical college....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Background feature" name="Enginner scenario" time="0.002082">
+<system-out><![CDATA[Given Student should join school first......................................passed
+Given Student should pass elementry school..................................passed
+Given Student has to complete highschool....................................passed
+When Student has to complete Higher secondry................................passed
+Then Student should join Engineering college................................passed
+]]></system-out>
+</testcase>
+</testsuite>

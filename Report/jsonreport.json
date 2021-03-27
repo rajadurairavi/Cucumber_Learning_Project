@@ -1,0 +1,328 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 336533700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Student should join school first",
+            "match": {
+              "location": "BackgroundExamples.student_should_join_school_first()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 62700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Student should pass elementry school",
+            "match": {
+              "location": "BackgroundExamples.student_should_pass_elementry_school()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 294100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.firstStepOfSuite()"
+            }
+          },
+          {
+            "result": {
+              "duration": 125700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.firstStepOfTest()"
+            }
+          },
+          {
+            "result": {
+              "duration": 134800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksWithBackgroundExamples.beforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 182600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggedHooksExamples.beforeAllScenarios()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Doctor scenario",
+        "description": "",
+        "id": "background-feature;doctor-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 464900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksWithBackgroundExamples.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 266000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggedHooksExamples.afterAllScenarios()"
+            }
+          },
+          {
+            "result": {
+              "duration": 289800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.lastStepOfTest()"
+            }
+          },
+          {
+            "result": {
+              "duration": 264200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.lastStepOfSuite()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 116200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Student has to complete SSLC",
+            "match": {
+              "location": "BackgroundExamples.student_has_to_complete_SSLC()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 76000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Student has to complete Twelth",
+            "match": {
+              "location": "BackgroundExamples.student_has_to_complete_Twelth()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Student should join Medical college",
+            "match": {
+              "location": "BackgroundExamples.student_should_join_Medical_college()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 144100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Student should join school first",
+            "match": {
+              "location": "BackgroundExamples.student_should_join_school_first()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 61900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Student should pass elementry school",
+            "match": {
+              "location": "BackgroundExamples.student_should_pass_elementry_school()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 297700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.firstStepOfSuite()"
+            }
+          },
+          {
+            "result": {
+              "duration": 287600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.firstStepOfTest()"
+            }
+          },
+          {
+            "result": {
+              "duration": 95500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksWithBackgroundExamples.beforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 92400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggedHooksExamples.beforeAllScenarios()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Enginner scenario",
+        "description": "",
+        "id": "background-feature;enginner-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 75900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksWithBackgroundExamples.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 67000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TaggedHooksExamples.afterAllScenarios()"
+            }
+          },
+          {
+            "result": {
+              "duration": 59500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.lastStepOfTest()"
+            }
+          },
+          {
+            "result": {
+              "duration": 58900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksExamples.lastStepOfSuite()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 310400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Student has to complete highschool",
+            "match": {
+              "location": "BackgroundExamples.student_has_to_complete_highschool()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 282200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Student has to complete Higher secondry",
+            "match": {
+              "location": "BackgroundExamples.student_has_to_complete_Higher_secondry()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 249100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Student should join Engineering college",
+            "match": {
+              "location": "BackgroundExamples.student_should_join_Engineering_college()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Background feature",
+    "description": "",
+    "id": "background-feature",
+    "keyword": "Feature",
+    "uri": "BackgroundExamples.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@BackgoundExamples"
+      }
+    ]
+  }
+]
